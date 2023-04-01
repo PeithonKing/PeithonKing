@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PeithonKing
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning All the Languages I can lay my hands upon
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Python/ Arduino programmers
 - 📫 Mail me @ amukherjeeniser@gmail.com
